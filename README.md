@@ -196,15 +196,14 @@ jupyter notebook
 
 A complete explanation of this project with theory and code walkthrough is available on YouTube:
 
-🔗 **YouTube Tutorial:** *(Add Your Video Link Here)*
-
+🔗 **YouTube Tutorial:** *https://youtu.be/yaiJFd1N8MA?si=hBsfXXn_Y07bBeYN*
 ---
 
 ## 📚 Complete Documentation
 
 Detailed project explanation, code walkthrough, and implementation details:
 
-🔗 **Project Documentation:** *(Add Documentation Link Here)*
+🔗 **Project Documentation:** *https://github.com/NikitaMishra04-COMMITS/Machine-learning-projects-/edit/main/README.md*
 
 ---
 
