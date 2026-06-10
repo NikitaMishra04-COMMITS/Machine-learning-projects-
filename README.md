@@ -265,7 +265,7 @@ If you found this project helpful:
 Computer Science Student | Data Science Enthusiast | Machine Learning Learner
 
 📺 YouTube: https://youtu.be/yaiJFd1N8MA?si=hBsfXXn_Y07bBeYN
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/nikita-mishra-63a829204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🐙 GitHub: https://github.com/NikitaMishra04-COMMITS/Machine-learning-projects-/new/main?filename=README.md
 
 ---
