@@ -19,7 +19,7 @@ Nikita Mishra — content for the DIGITAL GYAAN YouTube channel.
 
 📺 YouTube: www.youtube.com/@digitalGyaan17
 
-💼 Connect: 
+💼 Connect: https://www.linkedin.com/in/nikita-mishra-63a829204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 If these materials helped you, please ⭐ star the repo and subscribe on YouTube — it really helps!
 
