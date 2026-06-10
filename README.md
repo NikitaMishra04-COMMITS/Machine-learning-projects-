@@ -17,8 +17,9 @@ This repository is a one-stop collection of my machine learning study material. 
 👩‍💻 Author
 Nikita Mishra — content for the DIGITAL GYAAN YouTube channel.
 
-📺 YouTube: <add www.youtube.com/@digitalGyaan17>
-💼 Connect: <add >
+📺 YouTube: www.youtube.com/@digitalGyaan17
+
+💼 Connect: 
 
 If these materials helped you, please ⭐ star the repo and subscribe on YouTube — it really helps!
 
